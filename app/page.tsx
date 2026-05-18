@@ -1,4 +1,5 @@
-﻿import "./cinematic.css";
+﻿{
+  "name": "cinematic-landing",
 
 export default function Page() {
   return (
