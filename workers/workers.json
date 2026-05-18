@@ -1,0 +1,7 @@
+{
+  "name": "@rapyard/workers",
+  "scripts": {
+    "dev": "turbo run dev --filter=@rapyard/workers",
+    "start": "node queues/worker.js"
+  }
+}

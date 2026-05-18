@@ -1,0 +1,5 @@
+{
+  "name": "@rapyard/ui",
+  "main": "src/index.ts",
+  "react-native": "src/index.ts"
+}
